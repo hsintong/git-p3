@@ -1,1 +1,4 @@
 modify 1
+
+
+test pull = fetch + merge (p3)
